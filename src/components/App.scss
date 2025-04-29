@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #1e1e2f, #2d2d3a);
+    color: #f0f0f0;
+  }
+  
+  h1, h2, h3 {
+    color: #ffffff;
+  }
+  
+  a {
+    color: #66b2ff;
+    text-decoration: none;
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  }
